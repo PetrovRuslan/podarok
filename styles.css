@@ -1,0 +1,28 @@
+
+.Cacke {
+    margin-left: 32%;
+}
+.box {
+    background-color: rgb(110, 202, 241);
+    width: 60%;
+    font-size: 22px;
+  }
+  
+.p {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.linka {
+    font-size: 32px;
+    font-weight: bold;
+}
+.linka1 {
+    font-size: 22px;
+    background-color: rgb(26, 219, 91)
+}
+body {
+    background-color: rgb(191, 248, 248);
+}
+.imagesVR {
+    max-width: 600px;
+}
